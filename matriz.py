@@ -65,6 +65,9 @@ def sumarColumna():
         suma += M[_][x-1]
     print(f'\nLa suma de los datos en la columna {x} es: {suma}\n')
 
+def traza():
+    pass
+
 def menu(op):
     while op in ['s','S']:
         borrarTerminal()
