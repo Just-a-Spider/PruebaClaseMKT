@@ -66,6 +66,7 @@ def sumarColumna():
     print(f'\nLa suma de los datos en la columna {x} es: {suma}\n')
 
 def traza():
+    print('Este es un ejemplo de PR')
     pass
 
 def menu(op):
